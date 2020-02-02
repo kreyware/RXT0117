@@ -40,3 +40,9 @@ more sensors the better
 
 #### Rugged
 Should be resistant to impact, scratches, etc..
+
+#### Ability to charge using hand crank
+Seems promising to be possible to be implemented, needs more research
+
+#### Enviromently friendly where possible
+If there are options for us to do the same (or something sufficient to what we need) to be more eco friencly then we should use it
