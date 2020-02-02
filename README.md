@@ -45,4 +45,4 @@ Should be resistant to impact, scratches, etc..
 Seems promising to be possible to be implemented, needs more research
 
 #### Enviromently friendly where possible
-If there are options for us to do the same (or something sufficient to what we need) to be more eco friencly then we should use it
+If there are options for us to do the same (or something sufficient to what we need) to be more eco friencly then we should use it and track the processes that are not eco-friendly in case that changes for us to adapt.
